@@ -1,0 +1,18 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? 
+3 horas
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Terminado, todos los puntos resueltos
+
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+Aprender a manejar APIs y recordar información de python que ya habia olvidado
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+Sintaxis de algunas funciones y saber usar la funcion lambda para ordenar
+
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+No aplica
+
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+w3schools.com
+deepseek.com
