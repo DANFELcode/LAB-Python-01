@@ -1,5 +1,7 @@
+Integrantes: Daniel Felipe Sua - Daniel Jose Villamizar
+
 ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? 
-3 horas
+Abmos 3 horas
 
 ¿Cuál es el estado actual del laboratorio? ¿Por qué?
 Terminado, todos los puntos resueltos
@@ -11,7 +13,7 @@ Aprender a manejar APIs y recordar información de python que ya habia olvidado
 Sintaxis de algunas funciones y saber usar la funcion lambda para ordenar
 
 ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
-No aplica
+Comunicación efectiva, nos comprometemos a no dejarlo para el final
 
 ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
 w3schools.com
